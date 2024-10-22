@@ -1,0 +1,55 @@
+/* Irish Theme */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #28a745; /* Irish green */
+    color: white;
+    padding: 20px;
+    border-bottom: 4px solid #ffc107; /* Irish gold */
+}
+
+h1, h2 {
+    font-family: 'Celtic', serif;
+}
+
+main {
+    margin: 20px;
+}
+
+#photo-section {
+    margin-top: 20px;
+}
+
+#donation-section {
+    background-color: #ffebcc;
+    border: 2px solid #ffc107;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#venmo-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#venmo-btn:hover {
+    background-color: #218838;
+}
+
+footer {
+    margin-top: 40px;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 0;
+}
